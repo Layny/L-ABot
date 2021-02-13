@@ -43,4 +43,4 @@ client.on('channelCreate', channel =>  {
     })
 });
 
-client.login(process.env.TOKEN);
+client.login(process.env.token);
